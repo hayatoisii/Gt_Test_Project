@@ -12,6 +12,10 @@ int main()
     std::cout << "player作成\n";
 
     std::cout << "マージや\n";
+
+    std::cout << "player作成\n";
+
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
