@@ -13,7 +13,6 @@ int main()
 
     std::cout << "マージや\n";
 
-
     std::cout << "マージや\n";
 
 }
